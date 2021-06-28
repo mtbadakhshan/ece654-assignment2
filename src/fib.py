@@ -13,5 +13,5 @@ def fibonacci(n):
 
 
 if __name__ == "__main__":
-    r = fibonacci(n=6)
+    r = fibonacci(n=20)
     print(r)
