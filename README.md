@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/mtbadakhshan/ece654-assignment2.svg?branch=main)](https://travis-ci.com/mtbadakhshan/ece654-assignment2)
+
+
 Assignment 2 Instructions
 
 
